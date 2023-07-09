@@ -1,0 +1,1 @@
+## Lavoro su dataset IMDB, Vettorizzazione dei dati, creazione modello, addestramento modello e illustrazione dei valori dati dall addestramento 
